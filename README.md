@@ -1,2 +1,2 @@
-# mql5
+# MQL5
 Learning MetaQuotes Language
